@@ -1,2 +1,2 @@
-# shg-django-react
-A platform to empower self-help groups with simple tools for members, teams, and products.
+# study-django-react
+A platform to help you organize your study schedules, exams, important submissions, syllabus etc. 
